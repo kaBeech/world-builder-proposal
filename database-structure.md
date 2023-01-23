@@ -34,6 +34,14 @@
 
 - Has a direct effect when applied to an object
 
+##### Character Stats
+
+- Is applied to a Character
+
+##### Item Stats
+
+- Is applied to an Item
+
 #### Information*
 
 - Does not have a direct effect when applied to an object
