@@ -18,9 +18,29 @@
 
 - Exists in space and time, or interacts with or is interacted with by things that exist in space and time
 
+#### Characters
+
+- Has a will they can manifest
+
+#### Items
+
+- Can be used by a Character
+
 ### Information
 
 - Exists outside of space and time and does not on their own interact with things that exist in space and time
+
+#### Lore
+
+- Can theoretically be represented by a string of text (perhaps of infinite length)
+
+#### Sounds
+
+- Can theoretically be represented by an audio file (perhaps of infinite length)
+
+#### Images
+
+- Can theoretically be represented by an image file (perhaps of infinite dimensions)
 
 ## User Assets
 
@@ -33,3 +53,11 @@
 ### Information
 
 - Has an Info ID
+
+#### Permissions
+
+- Designates what a User can Create, Read, Update, and Delete
+
+#### Permission Levels
+
+- Grouping of Permissions in a way that is assignable to a User
