@@ -26,19 +26,27 @@
 
 - Can be used by a Character
 
-### Information
+### Data
 
 - Exists outside of space and time and does not on their own interact with things that exist in space and time
 
-#### Lore
+#### Properties
+
+- Has a direct effect when applied to an object
+
+#### Information
+
+- Does not have a direct effect when applied to an object
+
+##### Lore
 
 - Can theoretically be represented by a string of text (perhaps of infinite length)
 
-#### Sounds
+##### Sounds
 
 - Can theoretically be represented by an audio file (perhaps of infinite length)
 
-#### Images
+##### Images
 
 - Can theoretically be represented by an image file (perhaps of infinite dimensions)
 
