@@ -61,3 +61,11 @@
 #### Permission Levels
 
 - Grouping of Permissions in a way that is assignable to a User
+
+##### Project Permission Levels
+
+- Designates what a User can CRUD within a specific project
+
+##### Subscription Permission Levels
+
+- Designates what a User can do application wide (e.g. there may be limitations on how many Projects a user can create while using a Free subscription, while there may be an Unlimited subscription that a User can pay for to make as many projects as they want)
