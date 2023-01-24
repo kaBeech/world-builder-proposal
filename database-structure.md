@@ -1,6 +1,7 @@
 # World Builder Database*
 
 - Each heading designates a branch in the structure tree. After each heading will be a note giving the qualifications for an asset to be categorized under that heading
+- Necessary Components are marked in the Database Structure with an asterisk
 
 ## Project Assets*
 
