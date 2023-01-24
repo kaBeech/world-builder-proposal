@@ -5,6 +5,7 @@
 ## Project Assets*
 
 - Has a Project ID
+- Has a designator set to either Formal or Local
 
 ### Places*
 
