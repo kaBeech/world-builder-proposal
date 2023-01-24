@@ -2,8 +2,8 @@
 
 - Each heading designates a branch in the structure tree. After each heading will be a note giving the qualifications for an asset to be categorized under that heading
 - Primal Structures are marked in the Database Structure with an asterisk
-- Each Asset will have a pointer to its parent Asset (top-level assets will point to a Primal Asset)
-- Each Asset underneath a Primal Asset category will not be strictly necessary to create a Project
+- Each Asset will have a pointer to its parent Asset (top-level assets will point to a Primal Structure)
+- Each Asset underneath a Primal Structure category will not be strictly necessary to create a Project
 
 ## Project Assets
 
