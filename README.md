@@ -19,10 +19,8 @@ Project Templates (i.e. Database Structures) can  saved and duplicated/copied
 Projects or individual Project Assets can be duplicated/copied
 
 Each Project Asset will have designator set to either Formal or Local
-    - Formal assets are essentially the default form of the asset, absent from any copyrightable game mechanics
+    - Formal assets are essentially the default form of the asset, absent from any copyrightable game 
+    - Formal assets must not contain game mechanics that are not in the Public Domain (or at least strongly Open Source - to be considered)
+    - Formal assets will have pointers to their formal dependencies (for licensing reasons)
 
-<!-- Formal assets are essentially the default form of the asset -->
-<!-- Formal will have pointers to their formal dependencies (for licensing reasons) -->
-<!-- Formal assets must not contain game mechanics that are not in the Public Domain (or at least strongly Open Source - to be considered) -->
-<!-- Necessary Components are marked in the Database Structure with an asterisk -->
-<!-- Primal Structures are Necessary Components that are not User Assets -->
+Primal Structures, marked in the Database Structure with an asterisk, are necessary in every Project
