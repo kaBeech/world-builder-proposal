@@ -10,23 +10,36 @@
 - Has a Project ID
 - Has a designator set to either Formal or Local
 
-### Places*
+### Spacial Structures*
 
 - Is a designation of space
+
+#### Spaces
+
+- Exists in space but not necessarily time
 
 ### Timeframes*
 
 - Is a designation of time
 
+#### Time Periods
+
+- Exists in time but not necessarily space
+
 ### Objects*
 
-- Exists in space and time, or interacts with or is interacted with by things that exist in space and time
+- Interacts with or is interacted with by things that exist in space and time
 
-#### Characters
+#### Physical Objects
+
+- Exists in space and time
+- Has a physical form
+
+##### Characters
 
 - Has a will they can manifest
 
-#### Items
+##### Items
 
 - Can be used by a Character
 
